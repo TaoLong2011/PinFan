@@ -1,23 +1,9 @@
 
 <p align="center" >
-    <img src="https://images.gitee.com/uploads/images/2018/1214/151026_2299df23_892944.gif" />
+    <img src="https://gitee.com/xipai/PinFan/raw/bc6e8631807c7da0939477b9516d15fd90b8157f/%E6%8B%BC%E8%BF%94%E7%B3%BB%E7%BB%9Flogo.png" />
 </p>
 
-<h1 align="center"> 拼返系统</h1> 
-<p align="center">
-    <a href="http://www.crmeb.com">
-        <img src="https://img.shields.io/badge/OfficialWebsite-CRMEB-yellow.svg" />
-    </a>
-<a href="https://www.pinfancms.com">
-        <img src="https://img.shields.io/badge/Licence-GPL3.0-green.svg?style=flat" />
-    </a>
-    <a href="http://www.crmeb.com">
-        <img src="https://img.shields.io/badge/Edition-4.1-blue.svg" />
-    </a>
-     <a href="https://gitee.com/ZhongBangKeJi/CRMEB/repository/archive/master.zip">
-        <img src="https://img.shields.io/badge/download-80m-red.svg" />
-    </a>
-    </p>
+<h1 align="center"> 拼团返利电商系统</h1> 
 <p align="center">    
     <b>喜欢的话就点右上角 "Star" 支持一下吧，下次就不会迷路了，谢谢！</b>  
 </p>
@@ -76,10 +62,10 @@
 * Redis
 
 推荐使用bt宝塔面板，简单易用。
-服务器推荐韬龙云ecs：https://www.yun800.com
+服务器推荐韬龙云ECS：https://www.yun800.com
 
 ## 联系我们
-![有问题？联系CRMEB官方客服](https://images.gitee.com/uploads/images/2020/1128/154416_441805ca_1491977.png "屏幕截图.png")
+![有问题？联系PinFanCMS官方客服](https://gitee.com/xipai/PinFan/raw/master/kefu.png "kefu.png")
  
 
 官方网站：https://www.pinfancms.com
@@ -108,5 +94,3 @@
 All rights reserved。
 
 PinFanCMS® 商标和著作权所有者为重庆韬龙网络科技有限公司。
-
-[返回顶部 :fa-arrow-circle-up: ](https://gitee.com/ZhongBangKeJi/CRMEB#%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D)
