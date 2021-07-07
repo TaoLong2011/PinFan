@@ -1,6 +1,6 @@
 
 <p align="center" >
-    <img src="https://gitee.com/xipai/PinFan/raw/bc6e8631807c7da0939477b9516d15fd90b8157f/%E6%8B%BC%E8%BF%94%E7%B3%BB%E7%BB%9Flogo.png" />
+    <img src="https://gitee.com/xipai/PinFan/raw/master/logo.jpg" />
 </p>
 
 <h1 align="center"> 拼团返利电商系统</h1> 
