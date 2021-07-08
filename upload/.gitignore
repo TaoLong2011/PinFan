@@ -1,0 +1,16 @@
+/.idea
+/.vscode
+*.log
+.env
+.phpstorm.meta.php
+.constant
+install/install.lock
+public/phpExcel/*
+view/*
+public/static/*
+public/pages/*
+public/system/*
+public/UEditor/*
+/public/nginx.htaccess
+/public/.htaccess
+view
